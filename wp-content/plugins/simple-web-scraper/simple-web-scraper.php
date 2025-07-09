@@ -4,7 +4,7 @@
  * Plugin URI: https://yourwebsite.com/
  * Description: A simple web scraper tool that allows users to input a URL and scrape basic information using a shortcode.
  * Version: 1.0.0
- * Author: Your Name
+ * Author: Jaerome Roman
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */

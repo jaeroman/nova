@@ -1,5 +1,34 @@
 # Configuration files
 wp-config.php
+.htaccess
 
 # Debug logs
 debug.log
+
+# WordPress system files
+.DS_Store
+Thumbs.db
+
+# WordPress core (if not managing with Git)
+/wp-admin/
+/wp-includes/
+
+# Node modules and build files
+/node_modules/
+/build/
+
+# Temporary files
+*.swp
+*~
+
+# Uploads and user content
+/wp-content/uploads/
+/wp-content/cache/
+
+# Plugin and theme specific files
+/wp-content/advanced-cache.php
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+/wp-content/wp-cache-config.php
