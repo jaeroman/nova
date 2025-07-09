@@ -4,7 +4,7 @@ wp-config.php
 
 # Debug logs
 debug.log
-
+wp-content/debug.log
 # WordPress system files
 .DS_Store
 Thumbs.db
